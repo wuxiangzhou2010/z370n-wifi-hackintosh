@@ -15,7 +15,7 @@
 				<key>FixHDA</key>
 				<false/>
 				<key>FixShutdown</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>Name</key>
 			<string>DSDT.aml</string>
