@@ -170,7 +170,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>shikigva=1 dart=0 -disablegfxfirmware -lilubetaall -igfxbeta</string>
+		<string>shikigva=1 dart=0 darkwake=0 -disablegfxfirmware -lilubetaall -igfxbeta</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultLoader</key>
