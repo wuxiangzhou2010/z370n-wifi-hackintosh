@@ -373,7 +373,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02737104OPDJWPCB</string>
+		<string>XXX</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -408,7 +408,7 @@
 		<key>ProductName</key>
 		<string>iMac18,1</string>
 		<key>SerialNumber</key>
-		<string>C02VDVKXH7JY</string>
+		<string>XXX</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
