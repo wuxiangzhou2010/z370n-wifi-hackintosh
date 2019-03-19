@@ -1,14 +1,19 @@
 # z370n-wifi-hackintosh
 
 ## Components
-Component|Model
----|---
-CPU|  Intel i3 8100
-Motherboard|  Giga-z370n-wifi itx  Bios: f4
-RAM| Crucial DDR4 2666 8G
-Case| In Win Chopin
-Cooler| Noctua NH-L9I
-SSD|  Samsung 840 EVO 120G
+| Component   | Model                         |
+| ----------- | ----------------------------- |
+| CPU         | Intel i3 8100                 |
+| Motherboard | Giga-z370n-wifi itx  Bios: f4 |
+| RAM         | Crucial DDR4 2666 8G          |
+| Case        | In Win Chopin                 |
+| Cooler      | Noctua NH-L9I                 |
+| SSD         | Samsung 840 EVO 120G          |
+
+update: 
+
+1. 20190317  Samsumg pm981 is not compatible with macos 10.14.2, will reboot. no easy solution found yet.
+
 
 
 
@@ -78,10 +83,6 @@ SSD|  Samsung 840 EVO 120G
 - fix wifi card
   
   https://www.tonymacx86.com/threads/...card-into-a-ga-z370n-wifi-motherboard.259300/
-
-
-## Other Refer:
-
 - hackintosh-vanilla-desktop-guide
 
     https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/gathering-kexts
